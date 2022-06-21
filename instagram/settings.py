@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c(9koltobem%19ngq8&t%kb9&%4fki0$fx)po!v0zw7mt6lg8f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['instagram-cuzknothz.herokuapp.com']
+ALLOWED_HOSTS = ['instagram-cuzknothz.herokuapp.com','127.0.0.1']
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
